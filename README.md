@@ -1,4 +1,4 @@
-
+#Simple Blog App Laravel 6 + Vue js
 DEMO:
 https://www.loom.com/share/3ffdf603f85e4d8aa66d3af8888d55f0
 
